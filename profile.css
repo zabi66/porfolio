@@ -1,0 +1,65 @@
+h1{
+         text-align: CENTER;
+         color: #8B008B;
+         font-size: "30";
+         text-shadow: 2px 2px 3px #8A2BE2;
+         }
+
+body {
+    background: #007991;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #78ffd6, #007991);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #78ffd6, #007991); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}
+
+.button:active {
+    margin-bottom:50px;
+}
+
+summary {
+	text-shadow: 2px 2px 3px #8A2BE2;
+}
+
+#skills {
+	position: absolute;
+    top: 120px;
+    right: 400px;
+}
+/* Responsive web design*/
+@media only screen and (max-width: 1397px) 
+{
+
+#skills {
+    position: relative;
+    left: 7px;
+    top: 10px;
+}
+
+#hobbies {
+    position: relative;
+    left: 7px;
+    top: 20px;
+}
+
+#pixal {
+    position: relative;
+    left: 9px;
+    top: 40px;
+}
+h1{
+    text-align: CENTER;
+    color: #8B008B;
+    font-size: "30";
+    text-shadow: 2px 2px 3px #8A2BE2;
+    }
+
+
+
+}
+
+
+
+
+
+
+
